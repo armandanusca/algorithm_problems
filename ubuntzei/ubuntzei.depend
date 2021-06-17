@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1487004848 source:c:\users\arman\documents\cpp\ubuntzei\main.cpp
+	<fstream>
+	<iostream>
+	<utility>
+	<algorithm>
+	<set>
+	<climits>
+	<cmath>
+	<vector>
+

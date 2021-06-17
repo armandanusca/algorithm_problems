@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487689679 source:c:\users\arman\documents\cpp\omitest\main.cpp
+	<fstream>
+	<string>
+	<algorithm>
+	<iostream>
+

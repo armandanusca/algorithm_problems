@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487692443 source:c:\users\arman\documents\cpp\time\main.cpp
+	<bits/stdc++.h>
+	<ctime>
+
