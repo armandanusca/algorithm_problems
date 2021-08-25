@@ -1,2 +1,3 @@
-# algorithm_problems
-Some algorithm problems from highschool
+### Competitive programming preparation
+
+Some competitive programming problems from highschool
